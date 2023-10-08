@@ -3,7 +3,7 @@ user_bookings = []
 
 # Define hardcoded user and admin credentials
 users = {'user1': 'password', 'user2': 'password','mehar':'password'}
-admins = {'yahya': 'adminpassword1', 'ahmad': 'adminpassword','admin':'adminpassword'}
+admins = {'yahya': 'adminpassword', 'ahmad': 'adminpassword','admin':'adminpassword'}
 
 
 # Function to save user bookings to a text file
